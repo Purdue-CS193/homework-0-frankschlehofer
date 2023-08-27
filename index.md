@@ -1,5 +1,5 @@
-#WOAH WEBSITE 
-## Frankie's website
+
+# Frankie's First CS193 Homework
 
 ### Important vvvv
 
