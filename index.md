@@ -1,6 +1,11 @@
 
 # Frankie's First CS193 Homework
 
+## My fav things
+- The teachers seem cool
+- made some friends
+- excited to learn these important things that I was never taught
+
 ### Important vvvv
 
 
